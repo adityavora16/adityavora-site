@@ -673,5 +673,10 @@
   const io=new IntersectionObserver((es)=>{es.forEach(e=>{if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target);}});},{threshold:.12,rootMargin:'0px 0px -40px 0px'});
   document.querySelectorAll('.reveal').forEach(el=>io.observe(el));
 </script>
+
+<!-- Vercel Web Analytics. No cookies, no consent banner needed. Collects nothing
+     until Web Analytics is enabled for the project in the Vercel dashboard, at
+     which point /_vercel/insights/script.js starts resolving. -->
+<script defer src="/_vercel/insights/script.js"></script>
 </body>
 </html>
