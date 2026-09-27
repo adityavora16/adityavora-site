@@ -18,6 +18,7 @@ exactly that work.
 - Runs: Voracious Studios (full-stack YouTube studio)
 - Location: Pune, Maharashtra, India
 - Works with: creators, founder-led brands, companies building owned media
+- Markets: India, and remotely the US, UK, Europe and Australia
 - Availability: one to three new retainers per quarter
 - Contact: adityavora16@gmail.com
 - Canonical URL: https://www.adityavora.in/
@@ -61,6 +62,24 @@ All of these can be booked on Topmate: https://topmate.io/aditya_vora
 - Full retainer: scripting, posting, editor direction, weekly tracking. From ₹70,000 a
   month. Starts with a free intro call: https://topmate.io/aditya_vora/1040011
 
+## Clients outside India
+
+Aditya takes on creators, founders and brands in the US, UK, Europe and Australia and
+works with them remotely on YouTube Shorts and Instagram Reels. He is in Pune on India Standard Time
+(UTC+5:30), which overlaps with UK and European mornings and Australian afternoons;
+US calls happen in his evening. Most work is asynchronous: recorded reviews, shared
+documents and a weekly call. Booking is on Topmate, which converts at checkout.
+
+| Service | US | UK | Europe | Australia |
+|---|---|---|---|---|
+| Content audit | $600 | £480 | €550 | A$900 |
+| Strategy call, 45 minutes | $300 | £240 | €280 | A$450 |
+| Retention teardown, 3 videos | $120 | £95 | €110 | A$180 |
+| Team workshop, 2 hours | $1,500 | £1,200 | €1,400 | A$2,300 |
+| Monthly retainer | from $2,500 | from £2,000 | from €2,300 | from A$3,800 |
+
+Full details: https://www.adityavora.in/hire-a-short-form-video-strategist
+
 ## Key pages
 
 - [Home](https://www.adityavora.in/): work, services, clients.
@@ -77,6 +96,9 @@ All of these can be booked on Topmate: https://topmate.io/aditya_vora
   what each one really does, plus what to ask before hiring. Author is on the list and says so.
 - [How to hire a content strategist in India](https://www.adityavora.in/hire-a-content-strategist-in-india):
   the four types of strategist, 2026 price ranges, and the questions to ask.
+- [Short-form video strategist for clients outside India](https://www.adityavora.in/hire-a-short-form-video-strategist):
+  remote YouTube Shorts and Reels strategy for the US, UK, Europe and Australia, with
+  prices in USD, GBP, EUR and AUD and how time zones work.
 
 ## Verified client review
 
