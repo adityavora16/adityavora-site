@@ -195,6 +195,10 @@
     font-family:var(--grotesk);font-weight:700;font-size:15px;letter-spacing:.14em;
     padding:14px 24px;border-radius:6px;margin-top:4px;
   }
+  a.svc-price{text-decoration:none;transition:opacity .2s;}
+  a.svc-price:hover{opacity:.75;}
+  .svc-note{font-family:var(--grotesk);font-size:14.5px;line-height:1.55;color:var(--muted);max-width:70ch;margin:clamp(24px,3vw,36px) 0 0;}
+  .svc-note a{color:var(--ink);text-decoration:underline;text-underline-offset:3px;}
   @media(max-width:760px){.svc-grid{grid-template-columns:1fr;max-width:360px;}}
 
   /* TEACHING */
@@ -315,7 +319,8 @@
       "sameAs": [
         "https://www.linkedin.com/in/voracious/",
         "https://www.instagram.com/vora.cious/",
-        "https://ytjobs.co/talent/profile/24286"
+        "https://ytjobs.co/talent/profile/24286",
+        "https://topmate.io/aditya_vora"
       ]
     },
     {
@@ -346,6 +351,12 @@
         "itemListElement": [
           {
             "@type": "Offer",
+            "url": "https://topmate.io/aditya_vora/1040012",
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "minPrice": 19999,
+              "priceCurrency": "INR"
+            },
             "itemOffered": {
               "@type": "Service",
               "name": "The content audit",
@@ -364,6 +375,13 @@
           },
           {
             "@type": "Offer",
+            "url": "https://topmate.io/aditya_vora/1040011",
+            "priceSpecification": {
+              "@type": "UnitPriceSpecification",
+              "minPrice": 70000,
+              "priceCurrency": "INR",
+              "unitText": "month"
+            },
             "itemOffered": {
               "@type": "Service",
               "name": "The full retainer",
@@ -382,11 +400,56 @@
           },
           {
             "@type": "Offer",
+            "url": "https://topmate.io/aditya_vora/2318514",
+            "price": 49999,
+            "priceCurrency": "INR",
             "itemOffered": {
               "@type": "Service",
               "name": "Training and systems",
               "description": "SOPs, hiring, and in-house teams that run without me.",
               "serviceType": "Content team training and systems",
+              "provider": {
+                "@id": "https://www.adityavora.in/#service"
+              },
+              "areaServed": [
+                {
+                  "@type": "Country",
+                  "name": "India"
+                }
+              ]
+            }
+          },
+          {
+            "@type": "Offer",
+            "url": "https://topmate.io/aditya_vora/1040013",
+            "price": 15000,
+            "priceCurrency": "INR",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Strategy call",
+              "description": "A 45-minute strategy call. A smaller first step than an audit or a retainer.",
+              "serviceType": "Content strategy consultation",
+              "provider": {
+                "@id": "https://www.adityavora.in/#service"
+              },
+              "areaServed": [
+                {
+                  "@type": "Country",
+                  "name": "India"
+                }
+              ]
+            }
+          },
+          {
+            "@type": "Offer",
+            "url": "https://topmate.io/aditya_vora/2318513",
+            "price": 4999,
+            "priceCurrency": "INR",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Retention teardown",
+              "description": "A teardown of three of your videos. A smaller first step than an audit or a retainer.",
+              "serviceType": "Short-form video retention review",
               "provider": {
                 "@id": "https://www.adityavora.in/#service"
               },
@@ -542,6 +605,7 @@
         </div>
         <h3>The content audit</h3>
         <p>A clear read on a short-form channel. Hook teardowns, retention analysis, and the changes that move the numbers.</p>
+        <a class="svc-price" href="https://topmate.io/aditya_vora/1040012" rel="noopener" target="_blank">From ₹19,999</a>
       </div>
       <div class="svc-card reveal">
         <div class="svc-icon" aria-hidden="true">
@@ -557,6 +621,7 @@
         </div>
         <h3>The full retainer</h3>
         <p>End to end ownership. Scripting, posting, editor direction, and weekly tracking against the goals that matter.</p>
+        <a class="svc-price" href="https://topmate.io/aditya_vora/1040011" rel="noopener" target="_blank">From ₹70,000/mo</a>
       </div>
       <div class="svc-card reveal">
         <div class="svc-icon" aria-hidden="true">
@@ -574,8 +639,10 @@
         </div>
         <h3>Training & systems</h3>
         <p>SOPs, hiring, and in-house teams that run without me. The systems that make good content on repeat.</p>
+        <a class="svc-price" href="https://topmate.io/aditya_vora/2318514" rel="noopener" target="_blank">Workshop ₹49,999</a>
       </div>
     </div>
+    <p class="svc-note reveal">Want a smaller first step? A 45-minute <a href="https://topmate.io/aditya_vora/1040013" rel="noopener" target="_blank">strategy call</a> is ₹15,000, and a <a href="https://topmate.io/aditya_vora/2318513" rel="noopener" target="_blank">teardown of three of your videos</a> is ₹4,999. Everything here books through <a href="https://topmate.io/aditya_vora" rel="me noopener" target="_blank">my Topmate</a>. The retainer starts with a free intro call.</p>
   </section>
 
   <!-- TEACHING -->
@@ -644,6 +711,7 @@
       </div>
       <div class="contact-actions">
         <a class="mail" href="mailto:adityavora16@gmail.com">adityavora16@gmail.com</a>
+        <a class="btn" href="https://topmate.io/aditya_vora" rel="me noopener" target="_blank">Book a session on Topmate</a>
         <span class="socials">
           <a class="ic" href="https://www.linkedin.com/in/voracious/" rel="me noopener" target="_blank" aria-label="Aditya Vora on LinkedIn">IN</a>
           <a class="ic" href="https://www.instagram.com/vora.cious/" rel="me noopener" target="_blank" aria-label="Aditya Vora on Instagram">IG</a>
