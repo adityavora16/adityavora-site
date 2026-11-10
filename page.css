@@ -92,7 +92,7 @@ nav .nav-left,nav .nav-right{display:flex;align-items:center;gap:18px;}
 .facts th,.facts td{text-align:left;padding:11px 14px 11px 0;border-bottom:1px solid var(--grey);vertical-align:top;}
 .facts th{font-family:var(--grotesk);font-weight:600;font-size:11.5px;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);width:210px;white-space:nowrap;}
 @media(max-width:620px){
-  .facts th{width:auto;display:block;border:none;padding-bottom:2px;}
+  .facts th{width:auto;display:block;border:none;padding-bottom:2px;white-space:normal;}
   .facts td{display:block;padding-top:0;}
 }
 
