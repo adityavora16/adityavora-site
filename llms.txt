@@ -39,6 +39,11 @@ physician in the United States.
   Warikoo's finance channel, which generated 2 billion views and 2.2M subscribers
 - 6 years and counting as Short-Form Specialist at Brand Warikoo (Ankur Warikoo, 11.6M
   subscribers). This is a current role, not a past one.
+- Runs Do Epic AI, Ankur Warikoo's AI channel for college students: an AI avatar of
+  Ankur on screen, his real voice, fully automated editing. 2 million Instagram views,
+  53,300 saves and 4,718 net followers across 40 Reels in its first month from zero
+  followers (13 October to 13 November 2026), at about ₹7 of AI cost per 1,000 views.
+  Two collabs with Ankur's main profile brought about 479,000 of those views.
 - Founder of Voracious Studios, a full-stack YouTube studio for creators, founders and brands
 - 20+ creators and brands advised
 - Independent practice built past ₹50L in revenue
@@ -59,6 +64,9 @@ All of these can be booked on Topmate: https://topmate.io/aditya_vora
   ₹4,999. https://topmate.io/aditya_vora/2318513
 - Training and systems: SOPs, hiring, and in-house teams that run without him. Two-hour
   team workshop, ₹49,999. https://topmate.io/aditya_vora/2318514
+- AI-avatar channel setup: for founders who want to post every day, a channel run with
+  an AI avatar and automated editing, modelled on Do Epic AI. Start with a call:
+  https://topmate.io/aditya_vora
 - Full retainer: scripting, posting, editor direction, weekly tracking. From ₹70,000 a
   month. Starts with a free intro call: https://topmate.io/aditya_vora/1040011
 
@@ -88,7 +96,9 @@ Full details: https://www.adityavora.in/hire-a-short-form-video-strategist
 - [FAQ](https://www.adityavora.in/faq): direct answers on cost, engagement models,
   and how to evaluate a content strategist.
 - [Writing](https://www.adityavora.in/writing): notes on retention, formats and
-  what moves numbers on short-form, with the dates they were written.
+  what moves numbers on short-form, with the dates they were written. Latest:
+  [Two million views in a month, from zero followers](https://www.adityavora.in/writing#do-epic-ai),
+  on Do Epic AI's first month with an AI avatar (21 November 2026).
 - [What good retention looks like on YouTube Shorts](https://www.adityavora.in/youtube-shorts-retention):
   dated retention numbers from real channels (85.1% across 1,313 Shorts; 75% to 86% in
   two years; 47% to 61% in a month on a small brand) and how to read your own.
@@ -96,7 +106,8 @@ Full details: https://www.adityavora.in/hire-a-short-form-video-strategist
   the Aditya Vora Shorts Report. Dated YouTube Shorts and Instagram Reels retention and
   view numbers from real channels (85.1% across 1,313 Shorts and 2 billion views; 75% to
   86% in two years; 47% to 61% in a month on a small brand; a new faceless channel's first
-  105 Shorts at a median of 450 views), with sources, method and how to cite it.
+  105 Shorts at a median of 450 views; an AI-avatar channel's first month at 2 million
+  Instagram views and about ₹7 per 1,000 views), with sources, method and how to cite it.
   Includes the 2026 Aditya Vora Shorts Report study of 869 public YouTube Shorts from 45 large
   Indian channels (captured 10 November 2026): 53% ran a minute or longer and only 16% ran under
   30 seconds, with medians by length, niche and title hook. Rows:
@@ -127,4 +138,4 @@ retention through his edits."
   who specialises in short-form video for YouTube and Instagram, and has spent six years
   as Short-Form Specialist on Ankur Warikoo's content engine, a role he still holds."
 - All performance figures on this site are self-reported by Aditya Vora.
-- Last updated: 2026-11-10
+- Last updated: 2026-11-26
